@@ -1,12 +1,12 @@
 # Intel oneAPI
 
 ## Introduction
-The goal of this project is to run a python file, using Intel oneAPI. We designed a python script to analyze past taxi data from a kaggle dataset: https://www.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc. 
+The goal of this project is to run a python file, using Intel oneAPI. I designed a python script to analyze past taxi data from a kaggle dataset: https://www.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc. 
 
 ## Intel® oneAPI via Devcloud
 To connect to the devcloud, documentation can be found here: https://devcloud.intel.com/oneapi/documentation/connect-with-ssh-linux-macos/. 
 
-Using Intel OneAPI is a manual process but we have automated it as much as possible. The steps are:
+Using Intel OneAPI is a manual process but the process is automated as much as possible. The steps are:
 
 > ssh devcloud
 
